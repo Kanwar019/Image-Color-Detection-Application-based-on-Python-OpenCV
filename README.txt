@@ -1,19 +1,8 @@
 # Color Detection Application
 
-## Group Members
-
-- Nikita Shakya  
-  Roll No: 102317213  
-  Contribution: Testing the App
-
+Made By -
 - Kanwarajaybir Singh  
-  Roll No: 102317223  
-  Contribution: Code Implementation
-
-- Advait Gautam  
-  Roll No: 102317226  
-  Contribution: Finding Suitable Dataset
-
+- 102317223
 ---
 
 ## About the Project
